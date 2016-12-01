@@ -1,3 +1,4 @@
 # goodtables-example
 
-Revision 1
+Revision 2frictionlessdata
+frictionlessdata
