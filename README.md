@@ -1,3 +1,3 @@
 # goodtables-example
 
-Revision 5
+Revision 6
